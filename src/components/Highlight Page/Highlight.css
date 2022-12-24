@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.hpage-main{
+  background-color: black;
+  /* background-image: url('https://cdn.pixabay.com/photo/2016/09/21/20/34/texture-1685604_960_720.jpg'); */
+  background-image: url('https://wallpapercave.com/dwp1x/wp2216448.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 90vw;
+  /* min-height: 50vw; */
+}
+
+.bg-image{
+  padding-top: 7vw;
+  min-width: 76vw;
+}
+
+.container_1{
+  display: flex;
+  /* flex-wrap: wrap; */
+  /* padding: 1vw; */
+  padding-left: 8vw;
+  padding-right: 8vw;
+}
+
+.main-img{
+  padding: 3vw;
+}
+
+.image_m{
+  padding: 4vw;
+  width: 35vw;
+  border-radius: 63px;
+}
+
+.descrpt{
+  color: white;
+  padding-top: 8vw;
+}
+.slider_container{
+  display: flex;
+  list-style: none;
+  padding-left: 7vw;
+  align-items: center;
+  text-align: center;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  padding-right: 7vw;
+}
+
+.image-highl{
+  /* margin: 20px; */
+   /* padding: 20px; */
+  height: 250px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: transparent;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+/* .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+} */
+
+
+
+/* mobile responsive css */
+
