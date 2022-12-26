@@ -7,11 +7,11 @@
 .hpage-main{
   background-color: black;
   /* background-image: url('https://cdn.pixabay.com/photo/2016/09/21/20/34/texture-1685604_960_720.jpg'); */
-  background-image: url('https://wallpapercave.com/dwp1x/wp2216448.jpg');
+  background-image: url('https://img.freepik.com/free-photo/yellow-watercolor-paper_95678-446.jpg?w=1380&t=st=1672057200~exp=1672057800~hmac=27c2f2179ea23db35b40eb9f70f698da6e5913d85d1b0ee607b4e5d1210e1bf5');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  min-height: 90vw;
+  min-height: 55vw;
   /* min-height: 50vw; */
 }
 
@@ -35,7 +35,7 @@
 .image_m{
   padding: 4vw;
   width: 35vw;
-  border-radius: 63px;
+  border-radius: 17px;
 }
 
 .descrpt{
